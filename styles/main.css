@@ -1,0 +1,14 @@
+body {
+    background-color: #0c4767;
+    color: white;
+}
+
+header {
+    background-color: #eee0cb;
+    display: flex;
+}
+.rep__basic-info {
+    color: black;
+    margin: auto;
+    width: 250px;
+}
